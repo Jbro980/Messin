@@ -1,3 +1,5 @@
+make a pull request ill accept as soon as possible
+
 if you follow these right you can mess with someone through their ios shortcuts app the shrtcut is triggered every time 
 they enter a wifi network
 **1. if you type "Alert" at the start of your message your 2nd line ill be the title ne the 3rd line will be message**
